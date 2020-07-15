@@ -10,7 +10,12 @@ Dependencies
 To execute the pipeline, the following dependencies are necessary:
 
 ```python
-
+numpy
+cv2
+glob
+matplotlib
+moviepy.editor
+IPython.display
 ```
 
 Installation
