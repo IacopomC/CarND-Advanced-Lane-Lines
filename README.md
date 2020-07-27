@@ -26,4 +26,6 @@ Clone the Github Repository and run each cell contained in the Jupiter Notebook 
 
 ```python
 git clone https://github.com/IacopomC/CarND-Advanced-Lane-Lines
+cd CarND-Advanced-Lane-Lines
+jupyter notebook advanced_lane_finding.ipynb
 ```
