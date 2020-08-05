@@ -3,7 +3,7 @@
 
 This repository contains my implementation of the homonymous open source [project](https://github.com/udacity/CarND-Advanced-Lane-Lines) part of the [Udacity - Self-Driving Car NanoDegree](http://www.udacity.com/drive).
 
-For a step by step walkthrough of the project and an overview of the theory used see [here](https://iacopomc.github.io/projects/2020-07-15-advanced-lane-finding-project/) and [here](https://iacopomc.github.io/blog/advanced-lane-finding/)
+For a step by step walkthrough of the project and an overview of the theory used see [here](https://iacopomc.github.io/projects/2020-07-20-advanced-lane-finding-project/) and [here](https://iacopomc.github.io/blog/advanced-lane-finding/)
 
 For the camera calibration part you can check out the Jupyter notebook in [this repository](https://github.com/udacity/CarND-Camera-Calibration)
 
